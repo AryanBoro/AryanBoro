@@ -10,16 +10,17 @@
 
 ## 🚀 About Me
 
-```python
-aryan = {
-    "university": "IIIT Sonepat — B.Tech CSE (Data Science & Analytics)",
-    "year": "1st year (2025-2029)",
-    "stack": ["PyTorch", "FastAPI", "React", "TypeScript", "Docker"],
-    "currently_working_on": "FarmGuard AI — crop disease detection",
-    "looking_for": "ML / Full-Stack Internship",
-    "fun_fact": "Deployed a full-stack AI system in my first year of college 🎯"
-}
-```
+🎓 First-year B.Tech CSE (Data Science & Analytics) @ IIIT Sonepat (2025–2029)
+
+🛠️ I build full-stack AI applications — from training models to shipping production frontends
+
+🌿 Built and deployed **FarmGuard AI** — a crop disease detection system with 70k+ training images, FastAPI backend, and a React/TypeScript frontend with WebGL animations
+
+🔭 Currently exploring: **System design for ML applications**
+
+💼 Looking for: **ML / Full-Stack Internship**
+
+⚡ Fun fact: Deployed a full-stack AI system in my first year of college
 
 ---
 
@@ -60,10 +61,6 @@ aryan = {
 
 ## 🌿 Featured Project — FarmGuard AI
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
-</div>
-
 > End-to-end crop disease detection system — from model to deployed product
 
 | Layer | Tech | Details |
@@ -93,8 +90,8 @@ aryan = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanBoro&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBoro&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AryanBoro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBoro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
