@@ -8,19 +8,19 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 First-year B.Tech CSE (Data Science & Analytics) @ IIIT Sonepat (2025–2029)
+🎓 First-year B.Tech CSE (Data Science & Analytics) @ IIIT Sonepat (2025-2029)
 
-🛠️ I build full-stack AI applications — from training models to shipping production frontends
+💻 I build full-stack AI applications - from training models to shipping production frontends
 
-🌿 Built and deployed **FarmGuard AI** — a crop disease detection system with 70k+ training images, FastAPI backend, and a React/TypeScript frontend with WebGL animations
+🩺 Built and deployed **DermaScan AI** - a medical-grade skin cancer detection system using EfficientNetV2, Grad-CAM explainable AI, FastAPI, and a premium React/WebGL frontend.
 
-🔭 Currently exploring: **System design for ML applications**
+🎯 Currently exploring: **System design for ML applications**
 
 💼 Looking for: **ML / Full-Stack Internship**
 
-⚡ Fun fact: Deployed a full-stack AI system in my first year of college
+💡 Fun fact: Deployed a full-stack AI system in my first year of college
 
 ---
 
@@ -59,42 +59,43 @@
 
 ---
 
-## 🌿 Featured Project — FarmGuard AI
+## 🩺 Featured Project - DermaScan AI
 
-> End-to-end crop disease detection system — from model to deployed product
+> Medical-grade skin cancer detection system with explainable AI
 
 | Layer | Tech | Details |
 |-------|------|---------|
-| 🧠 Model | MobileNetV2 + PyTorch | 38 disease classes, 14 crops, 70k+ images |
-| ⚙️ Backend | FastAPI + Docker | Real-time inference, weather risk scoring, SQLite |
-| 🎨 Frontend | React + TypeScript | WebGL shaders, glassmorphism, scroll animations |
+| 🧠 Model | EfficientNetV2S + TensorFlow | 7 lesion classes, HAM10000 dataset, Custom Tensor Scaling |
+| ⚙️ Backend | FastAPI + Docker | Real-time inference, Grad-CAM generation |
+| 🎨 Frontend | React + TypeScript | WebGL shaders, premium medical aesthetic |
 | 🚀 Deploy | HuggingFace Spaces + Vercel | Live end-to-end |
 
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AryanBoro/farmguard-ai)
-[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AryanBoro/farmguard-ai-frontend)
-[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/borreooo/farmguard-ai)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AryanBoro/skin-cancer-detection)
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AryanBoro/skin-cancer-detection-frontend)
+[![Live Demo](https://img.shields.io/badge/🩺_Live_Demo-FFD21E?style=for-the-badge)](https://skin-cancer-detection-frontend-nn84e2f2u-aryan-boros-projects.vercel.app/)
 
 ---
 
-## 📊 Other Projects
+## 📂 Other Projects
 
-**📈 Stock Price Predictor** — `Python · Scikit-learn · Streamlit`
-- ML trading pipeline with 52–57% directional accuracy & Sharpe ratio > 1.0
+**🌾 FarmGuard AI** - `PyTorch · FastAPI · React`
+- End-to-end crop disease detection system identifying 38 diseases across 14 crops.
+- Real-time ML inference, WeatherAPI risk scoring, and interactive glassmorphism UI.
+
+**📈 Stock Price Predictor** - `Python · Scikit-learn · Streamlit`
+- ML trading pipeline with 52-57% directional accuracy & Sharpe ratio > 1.0
 - 23 engineered time-series features, temporal cross-validation, backtesting engine
 
-**🛒 O-LIST E-Commerce Dashboard** — `Power BI · ETL`
-- Analyzed 100,000+ transactions; found 78% revenue from credit card payments
-
 ---
 
-## 🤝 Connect
+## 🔗 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-boro-a17721381)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanboro@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1r4x-ZUd9eTKZ2wjtfJkrVK8rD5h7aJri?usp=drive_link)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/borreooo/farmguard-ai)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/AryanBoro)
 
 </div>
 
